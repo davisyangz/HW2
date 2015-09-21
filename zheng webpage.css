@@ -1,0 +1,13 @@
+.photo{
+	   Float:right;
+	   border:2px solid black;
+	   padding:5px;
+	   background-color:yellow;
+}
+
+body{
+	background-color: light red;
+	color:black;
+	font-size:13pt;
+}
+h2{color:blue;font-style:italic;font-weight:bold}
